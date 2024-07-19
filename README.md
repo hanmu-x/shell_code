@@ -1,3 +1,3 @@
 # shell_code
 
-基类的通用shell脚本程序
+积累的通用shell脚本程序
